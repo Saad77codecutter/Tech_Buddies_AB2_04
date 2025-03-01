@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Detector</title>
+    <script>
+        async function checkEmail() {
+            let emailText = document.getElementById("email").value;
+            let response = await fetch("/detect-phishing", {
+                method: "POST",
+                headers: { "Content-Type": "application/x-www-form-urlencoded" },
+                body: "email_text=" + encodeURIComponent(emailText),
+            });
+            let result = await response.json();
+            document.getElementById("result").innerText = "Prediction: " + result.prediction;
+        }
+    </script>
+</head>
+<body>
+    <h2>Email Phishing Detector</h2>
+    <textarea id="email" rows="4" cols="50" placeholder="Paste an email here..."></textarea>
+    <br>
+    <button onclick="checkEmail()">Check Email</button>
+    <h3 id="result"></h3>
+</body>
+</html>

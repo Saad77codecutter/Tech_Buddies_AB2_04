@@ -1,0 +1,17 @@
+Subject,Body,Sender,Timestamp,Label
+Account Compromised,Your account has been compromised. Reset your password immediately!,support@bank-alert.com,3/1/2025 10:15,phishing
+Lottery Winner!,Congratulations! You've won a lottery. Click here to claim.,lottery@winner.com,2/27/2025 8:30,phishing
+Meeting Request,"Hi, let’s schedule a meeting for tomorrow.",colleague@company.com,3/1/2025 14:45,legit
+Invoice Attached,Your invoice is attached for your reference.,billing@company.com,2/25/2025 17:20,legit
+Urgent: Verify Account,Click this urgent link to verify your account.,security@unknown.com,3/1/2025 12:00,phishing
+Payment Overdue,Your payment is overdue. Pay now to avoid penalty.,finance@billing.com,2/28/2025 9:45,phishing
+Suspicious Activity,We have detected suspicious activity on your account.,alerts@secure.com,2/27/2025 21:10,phishing
+Documents Sent,"Hello, I have sent the documents as requested.",client@business.com,3/1/2025 16:30,legit
+Transaction Declined,"Dear customer, your recent transaction was declined. Verify your information immediately.",bank@transactions.com,2/28/2025 22:00,phishing
+Subscription Reminder,Reminder: Your subscription expires soon. Renew now to continue service.,subscriptions@media.com,3/1/2025 7:15,legit
+Security Alert,Security alert: Someone tried to log into your account from an unknown device.,alerts@security.com,2/26/2025 19:40,phishing
+Payment Confirmation,Your recent payment of $1500 has been successfully processed.,payments@bank.com,2/25/2025 13:25,legit
+Tax Refund Notification,Your tax refund is ready. Click here to claim your money.,taxrefund@gov.com,2/28/2025 6:50,phishing
+HR Meeting Update,HR update: Please confirm your attendance for the upcoming meeting.,hr@company.com,3/1/2025 11:20,legit
+Billing Update,"Dear user, update your billing details to avoid service disruption.",billing@unknown.com,2/27/2025 23:10,phishing
+
