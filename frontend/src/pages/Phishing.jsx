@@ -6,6 +6,7 @@ const Phishing = () => {
   const [inputUrl, setInputUrl] = useState("");
   const [result, setResult] = useState(null);
   const [error, setError] = useState(null);
+  const [textAreaHeight, setTextAreaHeight] = useState(120); // Initial height in px
 
   // Function to analyze the input
   const analyzeText = async () => {
@@ -68,12 +69,22 @@ const Phishing = () => {
         {/* Email Content Input */}
         <motion.textarea
           whileFocus={{ scale: 1.02 }}
-          rows="5"
           placeholder="Paste email content here..."
           className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 outline-none transition duration-200"
+          style={{ height: `${textAreaHeight}px` }}
           value={inputText}
           onChange={(e) => setInputText(e.target.value)}
         ></motion.textarea>
+
+        {/* Button to Increase Height */}
+        <motion.button
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+          className="mt-2 px-4 py-2 bg-gray-300 rounded-lg text-gray-700 text-sm"
+          onClick={() => setTextAreaHeight(textAreaHeight + 50)}
+        >
+          Increase Height
+        </motion.button>
 
         {/* URL Input */}
         <motion.input
@@ -122,31 +133,6 @@ const Phishing = () => {
             <strong>Error:</strong> {error}
           </motion.div>
         )}
-      </motion.section>
-
-      {/* How It Works Section (Reveals on Scroll) */}
-      <motion.section
-        initial={{ opacity: 0, y: 40 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.8, ease: "easeOut" }}
-        viewport={{ once: true }}
-        className="bg-white rounded-xl shadow-lg p-6 w-full max-w-5xl text-center border border-gray-300 mt-12"
-      >
-        <h2 className="text-2xl font-semibold text-gray-700">How It Works</h2>
-        <div className="mt-4 space-y-4 text-gray-600 text-lg text-left">
-          <motion.p whileHover={{ scale: 1.02 }}>
-            🔹 Our phishing detection system scans text for known
-            <strong> phishing keywords, patterns, and suspicious URLs</strong>.
-          </motion.p>
-          <motion.p whileHover={{ scale: 1.02 }}>
-            🔹 It analyzes URLs for <strong>blacklisted domains</strong> and
-            potential fraudulent behavior.
-          </motion.p>
-          <motion.p whileHover={{ scale: 1.02 }}>
-            🔹 The system ensures <strong>real-time threat analysis</strong> for
-            quick and accurate detection.
-          </motion.p>
-        </div>
       </motion.section>
     </motion.div>
   );
