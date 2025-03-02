@@ -73,8 +73,8 @@
       </thead>
       <tbody>
         <tr>
-          <td><strong>Machine Learning</strong></td>
-          <td>Leverages TensorFlow for deep learning, OpenCV for image processing, Scikit-Learn for classification, and DeepFace for facial recognition to detect deepfakes and social engineering attacks.</td>
+          <td><strong>Deep Learning</strong></td>
+          <td>Leverages  Convolutional-Neural-network with TensorFlow using deep learning, OpenCV for image processing, Scikit-Learn for classification, and DeepFace for facial recognition to detect deepfakes and social engineering attacks.</td>
         </tr>
         <tr>
           <td><strong>NLP & URL Analysis</strong></td>
