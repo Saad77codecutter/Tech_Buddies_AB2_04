@@ -27,7 +27,7 @@
         <strong>Help Feature:</strong> Includes a comprehensive help section with tutorials, FAQs, and troubleshooting guides for new users.
       </li>
       <li>
-        <strong>Cross-Platform Design:</strong> Accessible as both a responsive website and a browser extension for broad usability.
+        <strong>Cross-Platform Design:</strong> Accessible as both a responsive website and a Real-Time browser extension for broad usability.
       </li>
     </ul>
     <hr>
