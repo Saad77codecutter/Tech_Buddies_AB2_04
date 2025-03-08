@@ -1,8 +1,27 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import { viteStaticCopy } from 'vite-plugin-static-copy';
+import UnoCSS from 'unocss/vite'
+import { presetWind, presetIcons } from 'unocss'
 
-// https://vite.dev/config/
 export default defineConfig({
-  plugins: [react(),tailwindcss(),],
-})
+  plugins: [
+    react(),
+    UnoCSS({
+      presets: [
+        presetWind(), // Enables Tailwind-like utilities
+        presetIcons()  // Enables icon utilities
+      ]
+    }),
+    viteStaticCopy({
+      targets: [
+        { src: 'src/manifest.json', dest: '' } // Copy manifest.json to dist/
+      ]
+    })
+  ],
+  build: {
+    outDir: "dist",
+    emptyOutDir: true
+  },
+  base: "./"
+});

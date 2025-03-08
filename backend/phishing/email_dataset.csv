@@ -1,17 +1,184 @@
 Subject,Body,Sender,Timestamp,Label
-Account Compromised,Your account has been compromised. Reset your password immediately!,support@bank-alert.com,3/1/2025 10:15,phishing
-Lottery Winner!,Congratulations! You've won a lottery. Click here to claim.,lottery@winner.com,2/27/2025 8:30,phishing
+Account Compromised,"Your account has been compromised. Reset your password immediately!",support@bank-alert.com,3/1/2025 10:15,phishing
+Lottery Winner!,"Congratulations! You've won a lottery. Click here to claim.",lottery@winner.com,2/27/2025 8:30,phishing
 Meeting Request,"Hi, let’s schedule a meeting for tomorrow.",colleague@company.com,3/1/2025 14:45,legit
-Invoice Attached,Your invoice is attached for your reference.,billing@company.com,2/25/2025 17:20,legit
-Urgent: Verify Account,Click this urgent link to verify your account.,security@unknown.com,3/1/2025 12:00,phishing
-Payment Overdue,Your payment is overdue. Pay now to avoid penalty.,finance@billing.com,2/28/2025 9:45,phishing
-Suspicious Activity,We have detected suspicious activity on your account.,alerts@secure.com,2/27/2025 21:10,phishing
+Invoice Attached,"Your invoice is attached for your reference.",billing@company.com,2/25/2025 17:20,legit
+Urgent: Verify Account,"Click this urgent link to verify your account.",security@unknown.com,3/1/2025 12:00,phishing
+Payment Overdue,"Your payment is overdue. Pay now to avoid penalty.",finance@billing.com,2/28/2025 9:45,phishing
+Suspicious Activity,"We have detected suspicious activity on your account.",alerts@secure.com,2/27/2025 21:10,phishing
 Documents Sent,"Hello, I have sent the documents as requested.",client@business.com,3/1/2025 16:30,legit
 Transaction Declined,"Dear customer, your recent transaction was declined. Verify your information immediately.",bank@transactions.com,2/28/2025 22:00,phishing
-Subscription Reminder,Reminder: Your subscription expires soon. Renew now to continue service.,subscriptions@media.com,3/1/2025 7:15,legit
-Security Alert,Security alert: Someone tried to log into your account from an unknown device.,alerts@security.com,2/26/2025 19:40,phishing
-Payment Confirmation,Your recent payment of $1500 has been successfully processed.,payments@bank.com,2/25/2025 13:25,legit
-Tax Refund Notification,Your tax refund is ready. Click here to claim your money.,taxrefund@gov.com,2/28/2025 6:50,phishing
-HR Meeting Update,HR update: Please confirm your attendance for the upcoming meeting.,hr@company.com,3/1/2025 11:20,legit
+Subscription Reminder,"Reminder: Your subscription expires soon. Renew now to continue service.",subscriptions@media.com,3/1/2025 7:15,legit
+Security Alert,"Security alert: Someone tried to log into your account from an unknown device.",alerts@security.com,2/26/2025 19:40,phishing
+Payment Confirmation,"Your recent payment of $1500 has been successfully processed.",payments@bank.com,2/25/2025 13:25,legit
+Tax Refund Notification,"Your tax refund is ready. Click here to claim your money.",taxrefund@gov.com,2/28/2025 6:50,phishing
+HR Meeting Update,"HR update: Please confirm your attendance for the upcoming meeting.",hr@company.com,3/1/2025 11:20,legit
 Billing Update,"Dear user, update your billing details to avoid service disruption.",billing@unknown.com,2/27/2025 23:10,phishing
 
+
+Claim Your Free Gift,"You've been selected for a free gift. Click here to claim!",gifts@promo.com,3/2/2025 9:00,phishing
+System Maintenance,"Our systems will undergo maintenance from 2 AM to 5 AM tonight.",it@company.com,3/2/2025 15:30,legit
+Password Expired,"Your password has expired. Click here to reset it.",security@fakebank.com,3/1/2025 18:45,phishing
+Important: Policy Change,"We've updated our privacy policy. Please review the changes.",legal@company.com,3/2/2025 10:10,legit
+Exclusive Discount Offer,"Get 50% off on your next purchase. Limited time offer!",deals@shopping.com,3/1/2025 13:20,phishing
+Team Lunch Invitation,"Join us for a team lunch this Friday at 1 PM.",hr@company.com,3/2/2025 16:00,legit
+Delivery Confirmation,"Your order has been shipped. Track your package here.",shipping@store.com,3/1/2025 11:50,legit
+Verify Your Identity,"We need to verify your identity to continue using our services.",security@fraudalert.com,3/1/2025 20:15,phishing
+Meeting Minutes Attached,"Please find attached the minutes from our last meeting.",manager@company.com,3/2/2025 14:05,legit
+Unusual Login Attempt,"Unusual login detected. Click here to secure your account.",alerts@suspicious.com,3/2/2025 6:45,phishing
+
+Congratulations! You’ve won a prize,"You are our lucky winner! Claim your prize now!",winner@luckydraw.com,3/3/2025 10:30,phishing
+Urgent: Account Locked,"Your account has been locked due to suspicious activity. Click to unlock.",security@fakealerts.com,3/3/2025 12:15,phishing
+Weekly Team Update,"Here is your weekly team update. Let us know if you have any questions.",team@company.com,3/3/2025 14:00,legit
+Final Warning: Subscription Expiring,"Your subscription will expire soon. Renew now!",support@subscriptions.com,3/2/2025 8:45,phishing
+Payment Received,"Your recent payment of $250 has been received successfully.",finance@bank.com,3/2/2025 9:50,legit
+Claim Your Free iPhone!,"You've been chosen for a free iPhone giveaway! Click here.",promo@deals.com,3/3/2025 16:30,phishing
+Performance Review Meeting,"Your annual performance review is scheduled for next week.",hr@company.com,3/3/2025 11:20,legit
+Exclusive Offer Just for You,"Unlock special discounts by clicking this link.",deals@shopnow.com,3/3/2025 13:45,phishing
+Server Downtime Notification,"Our server will be undergoing maintenance tonight at 2 AM.",it@company.com,3/2/2025 22:10,legit
+Suspicious Login Attempt Detected,"We detected a login attempt from a new location. Secure your account.",alerts@security.com,3/3/2025 18:00,phishing
+New Work Assignment,"Please review your new work assignment attached.",manager@company.com,3/3/2025 15:20,legit
+Your Bank Account Needs Verification,"Confirm your details to avoid account suspension.",support@banksecure.com,3/2/2025 19:40,phishing
+Congratulations! You’re Pre-Approved,"You’ve been pre-approved for a loan. Apply now!",loan@finance.com,3/3/2025 20:00,phishing
+HR Policy Update,"We've updated our company policies. Please review them here.",hr@company.com,3/3/2025 10:05,legit
+Unpaid Invoice Alert,"You have an unpaid invoice. Pay now to avoid penalties.",billing@accounts.com,3/3/2025 17:15,phishing
+Upcoming Webinar Invitation,"Join our exclusive webinar on industry trends.",events@company.com,3/3/2025 14:45,legit
+Your Password Expires Soon,"Your password will expire in 3 days. Reset it now!",security@updates.com,3/2/2025 21:30,phishing
+Request for Documents,"Can you send the required documents by end of the day?",client@business.com,3/3/2025 11:50,legit
+Credit Card Limit Increase,"Increase your credit card limit with one easy step!",offers@bank.com,3/2/2025 20:20,phishing
+Company Event Reminder,"Don’t forget about our company event this Friday!",events@company.com,3/3/2025 16:50,legit
+
+Security Alert: New Device Logged In,"We noticed a login from a new device. If this wasn't you, secure your account.",alerts@securemail.com,3/4/2025 08:10,phishing
+Exclusive Deal: 70% Off,"Special limited-time offer just for you! Click to claim.",promo@shoppingdeals.com,3/4/2025 09:30,phishing
+Reminder: Project Deadline Approaching,"The deadline for your project is coming up. Please submit it on time.",manager@company.com,3/4/2025 10:50,legit
+Invoice Payment Confirmation,"Your invoice has been successfully paid. Thank you!",billing@company.com,3/3/2025 15:45,legit
+Urgent: Reactivate Your Email,"Your email access has been restricted. Click here to verify your identity.",support@emailverify.com,3/3/2025 18:20,phishing
+Annual Leave Approval,"Your annual leave request has been approved.",hr@company.com,3/4/2025 12:05,legit
+You've Won a Free Vacation!,"Book your free vacation now before the offer expires!",travel@freevacations.com,3/4/2025 13:20,phishing
+Reminder: Performance Review Due,"Your performance review is scheduled for this week. Please complete the form.",hr@company.com,3/4/2025 14:40,legit
+Bank Account Suspended,"Your bank account has been suspended due to suspicious activity. Click to restore access.",alerts@banksecurity.com,3/4/2025 16:00,phishing
+Weekly Sales Report,"Attached is the weekly sales report for your reference.",sales@company.com,3/4/2025 17:15,legit
+Action Required: Confirm Your Billing Details,"Failure to update your billing details may lead to service disruption.",billing@unknownsource.com,3/4/2025 18:30,phishing
+Urgent: Update Your Payment Method,"Your payment method needs to be updated to continue service.",payments@service.com,3/3/2025 19:45,phishing
+Job Application Received,"We have received your job application. Our team will review it shortly.",careers@company.com,3/4/2025 20:10,legit
+Claim Your Exclusive Cashback Offer,"Get 20% cashback on your next transaction. Click to activate.",rewards@cashbackoffers.com,3/4/2025 21:30,phishing
+Invitation: Team Building Workshop,"Join us for a fun and interactive team-building workshop this weekend.",events@company.com,3/4/2025 22:50,legit
+Account Verification Needed,"Your account details need to be verified. Click here to continue.",support@verifyaccount.com,3/4/2025 23:15,phishing
+New Policy Update from Management,"Please review the latest policy updates from management.",admin@company.com,3/4/2025 07:30,legit
+Lottery Jackpot Winner!,"You’ve won the jackpot! Claim your winnings now.",lottery@winnersclub.com,3/4/2025 08:45,phishing
+Training Session Confirmation,"Your training session is confirmed for tomorrow at 10 AM.",training@company.com,3/4/2025 09:10,legit
+Confirm Your Shipping Address,"We need to confirm your shipping details before dispatching your order.",support@onlinestore.com,3/4/2025 10:25,legit
+
+Verify Your Email Now,"Your email access will be revoked unless you verify now.",support@fakeemail.com,3/5/2025 08:20,phishing
+Meeting Rescheduled,"The meeting has been rescheduled to 3 PM. Please confirm your availability.",colleague@company.com,3/5/2025 09:30,legit
+Bank Notice: Unusual Activity Detected,"We noticed suspicious activity on your account. Click here to review.",alerts@bank-secure.com,3/5/2025 10:45,phishing
+Reminder: Quarterly Review,"Your quarterly review is scheduled for next Monday.",manager@company.com,3/5/2025 11:55,legit
+Congratulations! You’ve Been Selected,"You’ve been selected for an exclusive investment opportunity!",invest@profitmax.com,3/5/2025 13:10,phishing
+Important Tax Update,"Please review the new tax regulations that may affect you.",finance@company.com,3/5/2025 14:25,legit
+Win a Free Car!,"You are eligible to win a brand-new car! Click here to claim.",promo@freecars.com,3/5/2025 15:40,phishing
+Employee Satisfaction Survey,"Please take a few minutes to complete our employee survey.",hr@company.com,3/5/2025 16:50,legit
+Urgent: Payment Issue Detected,"Your recent payment failed. Click here to resolve immediately.",billing@unknownsource.com,3/5/2025 18:05,phishing
+System Maintenance Alert,"Our systems will undergo scheduled maintenance from 1 AM - 4 AM tonight.",it@company.com,3/5/2025 19:20,legit
+Get a Special Discount Today!,"Claim your 50% discount on all items for today only!",sales@shopping.com,3/5/2025 20:35,phishing
+Health & Safety Policy Update,"Please review the latest changes to our workplace health & safety policy.",admin@company.com,3/5/2025 21:50,legit
+Your Package Is Delayed,"We apologize for the delay in your package delivery. Track your shipment here.",support@shipping.com,3/5/2025 23:05,legit
+Immediate Action Required: Verify Identity,"Failure to verify your identity will lead to account suspension.",security@accountverify.com,3/6/2025 07:10,phishing
+Project Kickoff Meeting,"Join us for the project kickoff meeting tomorrow at 10 AM.",project@company.com,3/6/2025 08:25,legit
+Claim Your Reward Points!,"You have unused reward points! Claim them before they expire.",rewards@loyalty.com,3/6/2025 09:40,phishing
+Deadline Reminder: Submit Your Report,"Please submit your monthly report before the deadline.",supervisor@company.com,3/6/2025 10:55,legit
+Beware of Fake Emails,"We have noticed an increase in phishing emails. Stay cautious!",security@company.com,3/6/2025 12:10,legit
+Immediate Assistance Required,"Your account has an issue that needs urgent attention. Click here to fix.",support@quickhelp.com,3/6/2025 13:25,phishing
+Upcoming Conference Registration,"Don’t forget to register for the upcoming industry conference.",events@company.com,3/6/2025 14:40,legit
+
+Your Account Will Be Locked Soon,"Failure to confirm your account will result in a lock.",security@alert-notice.com,3/6/2025 15:00,phishing
+Project Status Update,"Please review the latest updates on your assigned project.",manager@company.com,3/6/2025 16:15,legit
+Exclusive Investment Opportunity,"Join now and double your investment in just one month!",invest@quickrich.com,3/6/2025 17:30,phishing
+Company-Wide Announcement,"Please read the latest company announcement regarding policy changes.",admin@company.com,3/6/2025 18:45,legit
+Reset Your Password Now!,"We have detected unauthorized activity. Reset your password immediately.",security@reset-password.com,3/6/2025 20:00,phishing
+Invoice Reminder,"Your invoice is due soon. Kindly make the payment on time.",billing@company.com,3/6/2025 21:15,legit
+Win a Free Smartphone!,"You have been selected to win a brand-new smartphone! Click here to claim.",promo@giveaways.com,3/6/2025 22:30,phishing
+Reminder: IT Security Training,"Please complete your mandatory IT security training by Friday.",it@company.com,3/7/2025 07:45,legit
+Your Loan is Approved!,"Congratulations! Your loan application has been pre-approved.",finance@fastloan.com,3/7/2025 09:00,phishing
+Important: Update Your Account Info,"Your account information is outdated. Click here to update.",support@accountservices.com,3/7/2025 10:15,phishing
+Weekly Performance Report,"Please find attached the weekly performance report for your review.",reports@company.com,3/7/2025 11:30,legit
+New Social Media Policy,"Review our updated social media usage policy for employees.",hr@company.com,3/7/2025 12:45,legit
+You Have Won a Special Reward!,"Claim your exclusive reward before it expires!",rewards@specialoffers.com,3/7/2025 14:00,phishing
+Upcoming Maintenance Notice,"Our servers will be under maintenance from 2 AM - 5 AM tomorrow.",it@company.com,3/7/2025 15:15,legit
+Urgent: Confirm Your Email Address,"Your email access is at risk. Click below to verify.",support@verification.com,3/7/2025 16:30,phishing
+Quarterly Budget Meeting,"Join us for the quarterly budget review on Monday.",finance@company.com,3/7/2025 17:45,legit
+Your Credit Card is Blocked!,"Your credit card has been blocked due to unusual activity.",alerts@creditbank.com,3/7/2025 19:00,phishing
+Claim Your Bonus Now!,"You have an unclaimed bonus waiting for you! Click to receive.",bonus@cashrewards.com,3/7/2025 20:15,phishing
+Employee Benefits Update,"Please review the latest updates on employee benefits and perks.",hr@company.com,3/7/2025 21:30,legit
+Subscription Renewal Notice,"Your subscription is set to expire. Renew now to continue service.",subscriptions@media.com,3/7/2025 22:45,legit
+
+Urgent: Unauthorized Login Attempt,"We detected an unauthorized login attempt on your account.",security@account-alert.com,3/8/2025 07:30,phishing
+Team Meeting Tomorrow,"Reminder: We have a team meeting scheduled for tomorrow at 10 AM.",manager@company.com,3/8/2025 08:45,legit
+Your Bank Account Needs Verification,"Your bank account requires urgent verification to avoid suspension.",support@banksecure.com,3/8/2025 10:00,phishing
+Congratulations! You’ve Won a Vacation,"You’ve been selected for a free vacation! Click to claim now.",travel@vacationdeals.com,3/8/2025 11:15,phishing
+Policy Update Notification,"Please review the latest policy updates for compliance.",admin@company.com,3/8/2025 12:30,legit
+Security Breach Alert,"Your account may have been compromised. Click here to secure it now.",alerts@secureemail.com,3/8/2025 13:45,phishing
+Your Subscription Has Been Canceled,"Your subscription has been canceled. Contact support for assistance.",support@subscriptions.com,3/8/2025 15:00,legit
+Immediate Payment Required,"Your outstanding balance must be paid immediately to avoid penalties.",billing@unpaidbalance.com,3/8/2025 16:15,phishing
+Employee Training Session,"Join us for an upcoming employee training session next week.",hr@company.com,3/8/2025 17:30,legit
+Limited Time Offer! Get 70% Off,"Claim your exclusive discount before time runs out!",sales@shoppingdeals.com,3/8/2025 18:45,phishing
+Your Account Has Been Suspended,"Your account has been temporarily suspended. Click here to reactivate.",support@security-check.com,3/8/2025 20:00,phishing
+Expense Report Submission,"Please submit your monthly expense report before the deadline.",finance@company.com,3/8/2025 21:15,legit
+Claim Your Exclusive Gift Now!,"You have an unclaimed gift! Click here to receive it.",promo@giveaways.com,3/8/2025 22:30,phishing
+Project Deadline Reminder,"Reminder: Your project deadline is approaching soon.",teamlead@company.com,3/9/2025 07:00,legit
+Fraud Alert: Verify Your Identity,"Your identity must be verified to prevent fraud.",security@fraud-alert.com,3/9/2025 08:15,phishing
+Holiday Work Schedule Update,"Please review the updated work schedule for the upcoming holiday season.",admin@company.com,3/9/2025 09:30,legit
+You Have Won a Special Gift!,"Congratulations! You’ve won a gift. Click here to claim.",promo@specialrewards.com,3/9/2025 10:45,phishing
+HR Compliance Training,"Complete your mandatory HR compliance training before the deadline.",hr@company.com,3/9/2025 12:00,legit
+Secure Your Account Now,"Your account security is at risk. Click here to secure it.",security@accountprotection.com,3/9/2025 13:15,phishing
+Reminder: Upcoming Webinar,"Join us for an informative webinar this Thursday.",events@company.com,3/9/2025 14:30,legit
+Payment Successful Confirmation,"Your payment of $500 has been successfully processed.",payments@bank.com,3/9/2025 15:45,legit
+Urgent: Reset Your Email Password,"Your email password has been compromised. Reset it now!",support@emailreset.com,3/9/2025 17:00,phishing
+Discount Offer: 50% Off All Items,"Get 50% off your next purchase! Offer valid for 24 hours only.",promo@shoppingdeals.com,3/9/2025 18:15,phishing
+System Upgrade Notice,"Our systems will be upgraded this weekend. Expect brief downtime.",it@company.com,3/9/2025 19:30,legit
+Your Credit Score Has Changed,"Your credit score has been updated. Click here to check your report.",alerts@creditupdate.com,3/9/2025 20:45,phishing
+Meeting Agenda for Monday,"Please review the agenda for our upcoming Monday meeting.",manager@company.com,3/9/2025 22:00,legit
+Tax Filing Deadline Approaching,"Reminder: The tax filing deadline is next week.",finance@company.com,3/10/2025 07:15,legit
+Confirm Your Billing Details,"Your billing details need urgent confirmation. Click here to update.",billing@updateinfo.com,3/10/2025 08:30,phishing
+New Device Login Detected,"We detected a new login from an unfamiliar device.",security@company.com,3/10/2025 09:45,legit
+Free Gift Card Just for You!,"You’ve received a free gift card! Click here to claim.",promo@rewards.com,3/10/2025 11:00,phishingng
+
+Action Required: Verify Your Bank Info,"Your bank details need urgent verification. Click here to proceed.",alerts@bankverify.com,3/10/2025 12:15,phishing
+Team Outing Confirmation,"Please confirm your availability for the upcoming team outing.",hr@company.com,3/10/2025 13:30,legit
+Password Expiry Warning,"Your password is about to expire. Update it now to maintain access.",security@company.com,3/10/2025 14:45,legit
+Your Credit Card Has Been Blocked,"Your credit card has been blocked due to suspicious activity.",alerts@bankingsecure.com,3/10/2025 16:00,phishing
+Reminder: Performance Review Meeting,"Your performance review meeting is scheduled for next week.",manager@company.com,3/10/2025 17:15,legit
+Final Notice: Payment Required,"Your outstanding invoice must be cleared immediately.",billing@unpaidinvoices.com,3/10/2025 18:30,phishing
+New Feature Announcement,"Check out the latest features added to our platform!",updates@company.com,3/10/2025 19:45,legit
+Congratulations! You Won a Gift Card!,"Click here to claim your free $100 gift card.",promo@freeprizes.com,3/10/2025 21:00,phishing
+Office Relocation Update,"We are moving to a new office location next month. Stay tuned for details.",admin@company.com,3/10/2025 22:15,legit
+Unusual Login Attempt Detected,"We detected an unusual login attempt on your account.",alerts@security.com,3/11/2025 08:00,phishing
+
+Exclusive Offer: VIP Membership,"Upgrade to VIP and enjoy exclusive benefits. Click here to join.",promo@vipclub.com,3/11/2025 09:15,phishing
+Quarterly Financial Report,"Attached is the quarterly financial report for your review.",finance@company.com,3/11/2025 10:30,legit
+Confirm Your Email Address,"Click the link below to confirm your email address.",support@verification.com,3/11/2025 11:45,phishing
+Upcoming System Maintenance,"Our system will be undergoing maintenance this weekend.",it@company.com,3/11/2025 13:00,legit
+You've Been Selected for a Survey,"Complete our survey and get a chance to win a prize!",survey@marketresearch.com,3/11/2025 14:15,phishing
+Annual Leave Approval,"Your annual leave request has been approved.",hr@company.com,3/11/2025 15:30,legit
+Your E-Statement is Ready,"Your latest e-statement is now available for download.",bank@estatements.com,3/11/2025 16:45,legit
+Urgent: Update Your Payment Info,"Your recent transaction failed. Update your payment details now.",billing@failedtransaction.com,3/11/2025 18:00,phishing
+Reminder: Deadline for Project Submission,"Please submit your project by the end of the week.",manager@company.com,3/11/2025 19:15,legit
+Win a Free iPhone! Limited Time Offer,"Click now to enter the giveaway and win a free iPhone.",promo@bigprizes.com,3/11/2025 20:30,phishing
+
+Reset Your Email Password Now,"We detected suspicious activity. Reset your password immediately!",security@emailprotect.com,3/12/2025 08:00,phishing
+Company Newsletter - March Edition,"Check out the latest updates and news in this month’s newsletter.",news@company.com,3/12/2025 09:15,legit
+Final Warning: Account Suspension,"Your account will be suspended unless you verify your details.",support@accountalert.com,3/12/2025 10:30,phishing
+Reimbursement Request Approved,"Your reimbursement request has been approved. The amount will be credited soon.",finance@company.com,3/12/2025 11:45,legit
+Claim Your Free Hotel Stay!,"Book now and get a free hotel stay at your favorite destination!",travel@hoteldeals.com,3/12/2025 13:00,phishing
+Your Package is Out for Delivery,"Your order is out for delivery and will arrive today.",tracking@courier.com,3/12/2025 14:15,legit
+Urgent: Confirm Your Identity,"We noticed unusual activity. Confirm your identity now.",alerts@securebank.com,3/12/2025 15:30,phishing
+Important: Tax Filing Assistance,"Need help filing taxes? Our experts are here to assist.",support@taxadvisor.com,3/12/2025 16:45,legit
+Flash Sale: 80% Off Everything!,"Shop now and enjoy 80% off on all items for a limited time!",sales@shoppingworld.com,3/12/2025 18:00,phishing
+Payroll Processed Successfully,"Your salary for this month has been credited to your account.",hr@company.com,3/12/2025 19:15,legit
+Action Needed: Account Recovery,"Your account is locked. Click here to recover access.",security@accountrecovery.com,3/12/2025 20:30,phishing
+Upcoming Workshop on Leadership,"Join our exclusive leadership workshop next week.",events@company.com,3/12/2025 21:45,legit
+Urgent: Confirm Your Banking Details,"Your banking information needs verification for security reasons.",alerts@bankupdate.com,3/13/2025 08:00,phishing
+Invitation: Exclusive Business Conference,"You’re invited to an exclusive business networking event.",conference@businessmeet.com,3/13/2025 09:15,legit
+Your Account Has Been Locked,"Due to multiple failed login attempts, your account is locked.",security@systemalert.com,3/13/2025 10:30,phishing
+IT Helpdesk Ticket Resolved,"Your recent IT support request has been resolved.",helpdesk@company.com,3/13/2025 11:45,legit
+Lottery Jackpot Winner Announcement,"You’re the lucky jackpot winner! Claim your prize now.",lottery@bigwin.com,3/13/2025 13:00,phishing
+Project Kickoff Meeting Scheduled,"Join us for the project kickoff meeting this Friday.",team@company.com,3/13/2025 14:15,legit

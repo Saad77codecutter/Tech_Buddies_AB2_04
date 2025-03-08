@@ -1,5 +1,6 @@
 
 backend/deepfake/env
 backend/deepfake/models
+backend/deepfake/data
 backend/phishing/env
 

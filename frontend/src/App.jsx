@@ -1,30 +1,30 @@
 import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Deepfake from "./pages/Deepfake";
 import Phishing from "./pages/Phishing";
 import About from "./pages/About";
+import Report from "./pages/Report";
 
 function App() {
   return (
     <Router>
-      <div className="flex flex-col min-h-screen">
+      <div className="w-100 h-[104] bg-gray-100 text-black flex flex-col">
         <Navbar />
-        {/* Main content area */}
-        <main className="flex-grow">
+        <main className="flex-grow p-2 overflow-auto">
           <Routes>
-            <Route path="/Home" element={<Home />} />
+            <Route path="/" element={<Home />} />
             <Route path="/deepfake" element={<Deepfake />} />
             <Route path="/phishing" element={<Phishing />} />
             <Route path="/about" element={<About />} />
+            <Route path="/report" element={<Report />} />
+
           </Routes>
         </main>
-        <Footer />
       </div>
     </Router>
   );
 }
 
-export default App;
+export default App;

@@ -1,35 +1,29 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { FaTachometerAlt, FaChartBar, FaUserSecret, FaShieldAlt, FaInfoCircle } from "react-icons/fa";
 
 const Navbar = () => {
+  const menuItems = [
+    { icon: <FaTachometerAlt size={20} />, label: "Dashboard", path: "/" },
+    { icon: <FaChartBar size={20} />, label: "Reports", path: "/report" },
+    { icon: <FaUserSecret size={20} />, label: "Deepfake Detection", path: "/deepfake" },
+    { icon: <FaShieldAlt size={20} />, label: "Phishing Detection", path: "/phishing" },
+    { icon: <FaInfoCircle size={20} />, label: "About", path: "/about" },
+  ];
+
   return (
-    <nav className="bg-gray-900 bg-gradient-to-r from-gray-800 to-gray-900 sticky top-0 z-50 shadow-lg transition duration-300">
-
-      <div className="max-w-6xl mx-auto px-6 flex items-center justify-between py-4">
-        {/* Logo */}
-        <div className="text-2xl font-bold text-gray-200">
-          <Link
-            to="/home"
-            className="hover:text-blue-400 transition-transform transform hover:scale-105"
-          >
-            Deepfake Detector
-          </Link>
-        </div>
-
-        {/* Navigation Links */}
-        <ul className="flex space-x-6">
-          {["Home", "Deepfake", "Phishing", "About"].map((item, index) => (
-            <li key={index} className="relative">
-              <Link
-                to={`/${item.toLowerCase()}`}
-                className="text-lg font-semibold text-gray-200 hover:text-blue-400 transition relative pb-2"
-              >
-                {item}
-                <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-400 transition-all duration-300 hover:w-full"></span>
-              </Link>
-            </li>
-          ))}
-        </ul>
+    <nav className="bg-gray-900 p-2 border-t-2 border-cyan-500 shadow-lg flex justify-center w-full">
+      <div className="flex space-x-4">
+        {menuItems.map((item, index) => (
+          <div key={index} className="relative group bg-gray-800 p-2 rounded-lg shadow-md flex justify-center items-center">
+            <Link to={item.path} className="bg-cyan-400 text-black font-bold p-2 rounded-md flex items-center justify-center">
+              {item.icon}
+            </Link>
+            <span className="absolute bottom-full mb-2 hidden group-hover:block bg-black text-white text-xs rounded px-2 py-1">
+              {item.label}
+            </span>
+          </div>
+        ))}
       </div>
     </nav>
   );
