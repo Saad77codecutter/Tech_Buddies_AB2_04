@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="container">
-    <h1>Deepfake & Social Engineering Attack Detector</h1>
+    <h1>DeepSoc: Real-Time Deepfake & Social Engineering Attack Detector</h1>
     <p>
       The Deepfake & Social Engineering Attack Detector is an integrated solution designed to enhance digital security by detecting manipulated media and social engineering attacks in real-time. The platform combines advanced video analysis for deepfake detection with intelligent scanning of email URLs and content to identify phishing and social engineering threats. It also features an interactive dashboard system and a dedicated HELP section for new users. The solution is available both as a responsive website and as a browser extension.
     </p>
